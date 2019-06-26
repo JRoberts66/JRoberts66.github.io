@@ -1,4 +1,9 @@
 p {
    color: blue;
    align: centre;
+   text-align: centre;
+   }
+h1 {
+   color: Red;
+   text-align: centre;
    }
